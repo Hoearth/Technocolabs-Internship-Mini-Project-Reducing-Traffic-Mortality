@@ -1,2 +1,2 @@
-# Technocolabs-Internship-Mini-Project-Reducing-Traffic-Mortality
-we want to understand if there are patterns in this variation in order to derive suggestions for a policy action plan. In particular, instead of implementing a costly nation-wide plan we want to focus on groups of states with similar profiles. How can we find such groups in a statistically sound way and communicate the result effectively?
+# Traffic Mortality Reduction: Data-Driven Insights for Safer Roads
+This project aims to analyze traffic accident data and identify key factors contributing to high mortality rates. The project uses data science and machine learning techniques to build predictive models that help identify accident-prone areas, risky driving behaviors, and other factors influencing fatalities. The goal is to provide actionable insights for urban planners, policymakers, and traffic safety authorities to implement effective strategies for reducing traffic-related deaths.
